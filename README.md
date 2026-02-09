@@ -1,47 +1,34 @@
-# Python SQL EDA
+# Data Analyst Portfolio
 
-## Project Overview
-This project focuses on Exploratory Data Analysis (EDA) using Python and SQL. It is designed to provide insights into data through visualizations and statistical analysis, serving as a valuable tool for data-driven decision making.
+## Overview  
+As a Data Analyst in the Finance and Banking domain, I leverage my analytical skills and technical expertise to drive insights and facilitate data-driven decision-making. My portfolio showcases various projects that exemplify my proficiency in data manipulation, analysis, visualization, and reporting.
 
-## Technologies Used
-- **Python**: A high-level programming language used for data manipulation and analysis.
-- **SQLite**: A C library that provides a lightweight disk-based database.
-- **Pandas**: A powerful data analysis and manipulation library for Python.
-- **Matplotlib/Seaborn**: Libraries for data visualization in Python.
+## Skills  
+- **Programming Languages:** Python  
+- **Libraries:** Pandas, NumPy, Matplotlib  
+- **Databases:** MS SQL, PL/SQL  
+- **Visualization Tools:** Power BI  
 
-## Project Structure
-```
-/Python-sql-eda
-    ├── /data              # Folder for datasets
-    ├── /notebooks         # Jupyter notebooks for EDA
-    ├── /src              # Source code for data processing
-    ├── requirements.txt   # List of dependencies
-    └── README.md          # Project description and instructions
-```
+## Projects  
+### 1. Customer Segmentation Analysis  
+  - Conducted an analysis to segment customers based on their transaction history.  
+  - Utilized clustering techniques and visualization tools to provide insights on customer groups.  
 
-## Quick Start Instructions
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Pashask123/Python-sql-eda.git
-   cd Python-sql-eda
-   ```
-2. Install the required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Open Jupyter Notebook and start exploring the data:
-   ```bash
-   jupyter notebook
-   ```
+### 2. Financial Forecasting Model  
+  - Developed predictive models using historical financial data.  
+  - Implemented time series analysis to forecast future financial trends.
 
-## What the Project Does
-This project performs EDA by querying data from a SQL database and using Python libraries to generate meaningful insights and visualizations. It helps users understand the underlying patterns and characteristics of the data, allowing for informed decisions.
+### 3. Dashboard for Loan Approval Process  
+  - Created an interactive Power BI dashboard that visualizes loan approval metrics.  
+  - Integrated SQL queries to pull data from the bank's database for real-time updates.
 
-## Key Features
-- **Interactive Data Visualizations**: Create plots and charts to visualize data trends and correlations.
-- **SQL Queries**: Use SQL to filter and manipulate data efficiently.
-- **Data Cleaning**: Process raw data to improve quality and usability for analysis.
-- **Comprehensive Documentation**: Clear instructions and explanations provided throughout the project for ease of use.
+### 4. Revenue Analysis Report  
+  - Analyzed revenue streams and trends over time.  
+  - Created visualizations in Matplotlib for better understanding of seasonal patterns.
 
-## Conclusion
-This project is an excellent starting point for anyone looking to enhance their data analysis skills using Python and SQL. It provides hands-on experience in data retrieval, cleaning, and visualization, making it suitable for both beginners and advanced users.
+### 5. Risk Assessment Tool  
+  - Developed a tool to assess credit risk using financial indicators.  
+  - Employed statistical methods and PL/SQL for data extraction and processing.
+
+## Conclusion  
+My portfolio illustrates my ability to transform data into actionable insights that can enhance business strategies and operational efficiency in the Finance and Banking sector.
